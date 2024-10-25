@@ -2,7 +2,7 @@
 
 # Frontend Mentor - QR code component solution
 
-This is a solution to the [Blog preview card challenge on Frontend Mentor](https://www.frontendmentor.io/challenges/blog-preview-card-ckPaj01IcS).
+This is a solution to the [Blog preview card challenge on Frontend Mentor](https://www.frontendmentor.io/challenges/social-links-profile-UG32l9m6dQ/).
 
 ## Table of contents
 
@@ -12,11 +12,10 @@ This is a solution to the [Blog preview card challenge on Frontend Mentor](https
 - [My process](#my-process)
   - [Built with](#built-with)
   - [What I learned](#what-i-learned)
-  - [Continued development](#continued-development)
 
 ## Overview
 
-Developing a QR-code component project using HTML and CSS.
+Linktree-like card holding different URLs
 
 ### Screenshot
 
@@ -24,8 +23,8 @@ Developing a QR-code component project using HTML and CSS.
 
 ### Links
 
-- Solution URL: [Here](https://github.com/TheWraithDev/Blog-Preview-Card)
-- Live Site URL: [Here](https://thewraithdev.github.io/Blog-Preview-Card/)
+- Solution URL: [Here](https://github.com/TheWraithDev/social-links-profile-card)
+- Live Site URL: [Here](https://thewraithdev.github.io/social-links-profile-card/)
 
 ## My process
 
@@ -33,11 +32,8 @@ Content first approach meaning I branched out the HTML then applied the Styling,
 
 ### Built with
 
--HTML
--CSS
+HTML5, CSS3 and patience
 
 ### What I learned
 
-I managed to use Media Queries to make the layout somewhat responsive
-
-### Continued development
+This is so far similar to the previous challenges we've had from FEM but still helpful.
