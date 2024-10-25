@@ -1,7 +1,3 @@
-@ -0,0 +1,41 @@
-
-# Frontend Mentor - QR code component solution
-
 This is a solution to the [Social Links Profile Card challenge on Frontend Mentor](https://www.frontendmentor.io/challenges/social-links-profile-UG32l9m6dQ/).
 
 ## Table of contents
