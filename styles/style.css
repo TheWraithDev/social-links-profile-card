@@ -34,7 +34,7 @@ main {
 .social-card-container{
     background-color: var(--clr-card);
     color: white;
-    min-width: 350px;
+    max-width: 350px;
     padding: 25px;
     border-radius: 10px;
 }
@@ -60,7 +60,7 @@ main {
 }
 
 .links > li {
-    margin: 20px;
+    margin: 12px;
     background-color: var(--clr-options);
     padding: 18px 110px;
     border-radius: 5px;
