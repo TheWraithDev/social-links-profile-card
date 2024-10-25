@@ -44,14 +44,14 @@ main {
     display: flex;
     flex-direction: column;
     align-items: center;
-    gap: 16px;
+    gap: 12px;
 }
 
 .author-information > p {
     color: var(--clr-accent);
     font-size: 14px;
     font-weight: var(--fw-semibold);
-    margin-bottom: 28px;
+    margin-bottom: 12px;
 }
 
 .links {
@@ -62,7 +62,7 @@ main {
 .links > li {
     margin: 20px;
     background-color: var(--clr-options);
-    padding: 18px;
+    padding: 18px 110px;
     border-radius: 5px;
     color: white;
     text-align: center;
