@@ -85,8 +85,9 @@ main {
     opacity: 75%;
 }
 
-@media (max-width: 350px) {
+@media (max-width: 320px) {
     .social-card-container{
-        max-width: 300px;
+        max-width: 280px;
     }
+    
 }
