@@ -52,7 +52,7 @@ main {
 
 .author-information > p {
     color: var(--clr-accent);
-    font-size: 14px;
+    font-size: 0.875rem;
     font-weight: var(--fw-semibold);
     margin-bottom: 12px;
 }
@@ -70,7 +70,7 @@ main {
     color: white;
     text-align: center;
     font-weight: var(--fw-semibold);
-    font-size: 14px;
+    font-size: 0.875rem;
 }
 
 .links > li:hover {
@@ -82,7 +82,7 @@ main {
 #quote {
     font-weight: var(--fw-regular);
     color: #f2f2f2;
-    font-size: 14px;
+    font-size: 0.875rem;
     opacity: 75%;
 }
 
@@ -90,5 +90,4 @@ main {
     .social-card-container{
         max-width: 280px;
     }
-    
 }
