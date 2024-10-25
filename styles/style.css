@@ -21,6 +21,8 @@
   margin: 0;
 }
 
+
+
 main {
     min-height: 100vh;
     display: flex;
@@ -62,7 +64,7 @@ main {
 .links > li {
     margin: 12px;
     background-color: var(--clr-options);
-    padding: 18px 110px;
+    padding: 20px;
     border-radius: 5px;
     color: white;
     text-align: center;
@@ -81,4 +83,10 @@ main {
     color: #f2f2f2;
     font-size: 14px;
     opacity: 75%;
+}
+
+@media (max-width: 350px) {
+    .social-card-container{
+        max-width: 300px;
+    }
 }
