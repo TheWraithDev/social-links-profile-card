@@ -39,6 +39,7 @@ main {
     max-width: 350px;
     padding: 25px;
     border-radius: 10px;
+    margin: 15px
 }
 
 .author-information {
