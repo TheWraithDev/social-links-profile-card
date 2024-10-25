@@ -36,6 +36,7 @@ main {
     color: white;
     min-width: 350px;
     padding: 25px;
+    border-radius: 10px;
 }
 
 .author-information {
