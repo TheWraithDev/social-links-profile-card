@@ -69,7 +69,7 @@ main {
 }
 
 .links > li > a {
-    margin: 10px;
+    margin: 14px 24px;
     background-color: var(--clr-options);
     padding: 16px;
     border-radius: 5px;
