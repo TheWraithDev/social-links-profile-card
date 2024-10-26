@@ -21,6 +21,12 @@
   margin: 0;
 }
 
+a {
+    text-decoration: none;
+    color: inherit;
+    display: block;
+}
+
 
 
 main {
@@ -31,15 +37,16 @@ main {
     align-items: center;
     background-color: var(--clr-background);
     font-family: var(--ff-family);
+    padding: 25px;
 }
 
 .social-card-container{
     background-color: var(--clr-card);
     color: white;
-    max-width: 350px;
-    padding: 25px;
     border-radius: 10px;
-    margin: 15px
+    margin: 25px;
+    width: 100%;
+    max-width: 22rem;
 }
 
 .author-information {
@@ -54,7 +61,6 @@ main {
     color: var(--clr-accent);
     font-size: 0.875rem;
     font-weight: var(--fw-semibold);
-    margin-bottom: 12px;
 }
 
 .links {
@@ -62,10 +68,10 @@ main {
     text-decoration: none;
 }
 
-.links > li {
-    margin: 12px;
+.links > li > a {
+    margin: 10px;
     background-color: var(--clr-options);
-    padding: 20px;
+    padding: 16px;
     border-radius: 5px;
     color: white;
     text-align: center;
@@ -73,7 +79,7 @@ main {
     font-size: 0.875rem;
 }
 
-.links > li:hover {
+.links > li> a:hover {
     background-color: var(--clr-accent);
     color: black;
     cursor: pointer;
@@ -84,10 +90,4 @@ main {
     color: #f2f2f2;
     font-size: 0.875rem;
     opacity: 75%;
-}
-
-@media (max-width: 320px) {
-    .social-card-container{
-        max-width: 280px;
-    }
 }
