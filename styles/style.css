@@ -47,6 +47,7 @@ main {
     margin: 25px;
     width: 100%;
     max-width: 22rem;
+    padding: 10px;
 }
 
 .author-information {
