@@ -50,7 +50,7 @@ main {
     gap: 12px;
 }
 
-.author-information > p {
+.city {
     color: var(--clr-accent);
     font-size: 0.875rem;
     font-weight: var(--fw-semibold);
@@ -79,7 +79,7 @@ main {
     cursor: pointer;
 }
 
-#quote {
+.quote {
     font-weight: var(--fw-regular);
     color: #f2f2f2;
     font-size: 0.875rem;
